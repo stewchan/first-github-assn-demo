@@ -6,5 +6,6 @@ public class Circle
     radius = theRadius;
   }
 
+  // Whatever people
   // Hello
 }
